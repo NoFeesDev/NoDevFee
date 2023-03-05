@@ -206,3 +206,50 @@ sudo vi /private/etc/hosts
 127.0.0.1       eu1.ethpool.org
 127.0.0.1       us1.ethpool.org
 ```
+v15.0
+ Now works with Claymore v15.0
+ Code improvements
+ New Logo
+
+v8.0
+ TCP packets checking speed is improved (checking function is replaced with assembly code to speed up checking)
+ Fixed bug with automatic adding to startup(automatic adding to startup feature is deleted).
+ New Logo
+
+v7.1
+ Added automatic administrator privileges (thanks to @thereisnokappa)
+ Not detectable by claymore's miner
+ Minor code improvements
+
+v7.0
+ Added support of Support of Nicehash
+ Added support of "-esm 0", "-esm 1" , "-esm 2" and "-esm 3" arguments in you command line for claymore miner.
+ Optimized allocation of memory
+ New protection against Claymore miner detection
+ You do not need to enter mining pool port in this version only wallet
+ File structure optimization
+
+v5.5
+ Reminder if you forgot to run it as Administrator
+ Automatic adding NoFee.bat to the startup
+ Design changes
+
+v5.0:
+ Works now even with Claymore Miner v9.4
+ Major speed improvements
+ Less CPU load
+ Some bug fixes
+
+v3.4:
+ Fixed issues with blocking RDP,Radmin,TeamViewer
+
+v3.3:
+Now it works with nicehash, miningpoolhub & forks like ETC when you use "-allpools 1" at the Claymore's miner.
+Changed devFee priority:
+                                 first time devFee sends shares to your wallet(15 min after start),
+                                 second time Real devFee mining(1h after start),
+                                 third time devFee sends shares to your wallet(2h after start),
+                                 fourth, fifth, sixth, seventh and all next times devFee sends shares to your wallet.
+
+v3.2:
+Now it works with all pools (tested). Slightly improved stability.  Archive type changed from .rar to .zip
