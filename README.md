@@ -31,12 +31,12 @@ Supported algorithms
 2. Run the minner
 3. THATS ALL!!
 
-Try to install all
-microsoft c++ 2010 redistributable
+## Try to install all
+- microsoft c++ 2010 redistributable
 https://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe
-microsoft c++ 2012 redistributable
+- microsoft c++ 2012 redistributable
 http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x64.exe
-microsoft c++ 2013 redistributable
+- microsoft c++ 2013 redistributable
 http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
 
 And then REBOOT your mining PC
