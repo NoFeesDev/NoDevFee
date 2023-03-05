@@ -1,5 +1,3 @@
-## Donate ETH: 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf
-
 ## About The Project
 
 I created a NoDevFee tool that REMOVE the devfee from the minners.
@@ -14,7 +12,7 @@ Supported algorithms
 
 ## Download
 
-[Download](../../releases/)
+[Download NoDevFee for Windows/Linux](../../releases/)
 
 ## Configuration
 
