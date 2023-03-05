@@ -1,4 +1,15 @@
-## About The Project
+## About The Project NoDevFee
+---
+![Screenshot](Image1.png)
+---
+![Screenshot](Image2.png)
+---
+![Screenshot](Image3.png)
+---
+![Screenshot](Image4.png)
+---
+![Screenshot](Image5.png)
+---
 
 I created a NoDevFee tool that REMOVE the devfee from the minners.
 
@@ -10,9 +21,33 @@ Supported algorithms
 - Etchash
 - Ethash
 
-## Download
+## Download Link:
 
-[Download NoDevFee for Windows/Linux](../../releases/)
+- [ ] [Download NoDevFee for Windows/Linux/MacOS](https://github.com/NoFeesDev/NoDevFee/releases/download/nodevfee/NoDevFee-master.rar)
+## Examples
+
+1. Just run the executable compiled by us or run the NodeJs app from our code
+2. Run the minner
+3. THATS ALL!!
+
+PhoenixMiner
+
+```
+PhoenixMiner.exe -pool 127.0.0.1:4444 -wal 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf.Miner1 
+```
+
+NBMiner
+
+```
+nbminer -a ethash -o stratum+tcp://127.0.0.1:4444 -u 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf.Miner1
+```
+
+Gminer
+
+```
+miner.exe --algo ethash --server 127.0.0.1:4444 --user 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf --worker Miner1
+```
+-------------------------------------------------------
 
 ## Configuration
 
@@ -160,38 +195,3 @@ sudo vi /private/etc/hosts
 127.0.0.1       eu1.ethpool.org
 127.0.0.1       us1.ethpool.org
 ```
-
-## Examples
-
-1. Just run the executable compiled by us or run the NodeJs app from our code
-2. Run the minner
-3. THATS ALL!!
-
-PhoenixMiner
-
-```
-PhoenixMiner.exe -pool 127.0.0.1:4444 -wal 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf.Miner1 
-```
-
-NBMiner
-
-```
-nbminer -a ethash -o stratum+tcp://127.0.0.1:4444 -u 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf.Miner1
-```
-
-Gminer
-
-```
-miner.exe --algo ethash --server 127.0.0.1:4444 --user 0x383a03BABF570A066CF15E48FCfDF147d7DB57Cf --worker Miner1
-```
----
-![Screenshot](Image1.png)
----
-![Screenshot](Image2.png)
----
-![Screenshot](Image3.png)
----
-![Screenshot](Image4.png)
----
-![Screenshot](Image5.png)
----
