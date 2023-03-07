@@ -1,4 +1,4 @@
-## About The Project NoDevFee -  Ethereum Mining NoDevFee 0% v15.0
+## About The Project NoDevFee -  Ethereum Mining NoDevFee 0% 
 ---
 ![Screenshot](Image1.png)
 ---
